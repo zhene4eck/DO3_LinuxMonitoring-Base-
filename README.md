@@ -1,4 +1,4 @@
-# Task LinuxMonitoring 
+# Task Linux Monitoring 
 Linux basic bash scripting and system research.<br>
 > *Базовые скрипты Bash и системные исследования для Linux.*
 
