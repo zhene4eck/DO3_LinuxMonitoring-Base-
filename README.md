@@ -1,4 +1,7 @@
 # Task LinuxMonitoring 
 Linux basic bash scripting and system research.
-*Этапы и задачи, рассматриваемые в рамках проекта
+*Базовые скрипты Bash и системные исследования для Linux.*
+
+Stages and tasks considered in the project.
+*Этапы и задачи, рассматриваемые в рамках проекта*
 
